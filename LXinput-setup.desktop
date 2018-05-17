@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=LXInput autostart
+Comment=Setup keyboard and mouse using settings done in LXInput
+Hidden=false
+NoDisplay=false
+##Exec=sh -c 'xset m 20/10 10 r rate 500 30 b on(null)'
+#Exec=sudo python3 /home/pi/MFRC522-python/rfidprogram080520181000.py
+#Exec=sudo python3 /home/pi/MFRC522-python/rfidprogram080520181000.py
+##Exec=sudo python3 /home/pi/New/Read_1May_S3_LCD_7led.py
+##NotShowIn=GNOME;KDE;XFCE;
+X-GNOME-Autostart-enable=true
